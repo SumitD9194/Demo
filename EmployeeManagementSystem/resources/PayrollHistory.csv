@@ -1,0 +1,516 @@
+Date,EmpID,Name,Department,FinalSalary
+2025-07-25,101,Sumit Dhayde,Devloper,16050.00
+2025-07-25,102,Pratik Jain,Devloper,21400.00
+2025-07-25,103,Sagar Jain,Manager,28750.00
+2025-07-25,104,Murnal Raut,Manager,14950.00
+2025-07-25,105,Saurabh Darp,Develper,21400.00
+2025-07-25,106,Krushna Chavan,Devloper,17120.00
+2025-07-25,107,Pranjali Patil,Manager,63250.00
+2025-07-25,108,Sheetal Chavan,Developer,14980.00
+2025-07-28,101,Sumit Dhayde,Devloper,16050.00
+2025-07-28,102,Pratik Jain,Devloper,21400.00
+2025-07-28,103,Sagar Jain,Manager,28750.00
+2025-07-28,104,Murnal Raut,Manager,14950.00
+2025-07-28,105,Saurabh Darp,Develper,21400.00
+2025-07-28,106,Pranhali,Devloper,14980.00
+2025-07-28,107,Kanchan,Manager,20202.25
+2025-07-28,108,Kumar Thakre ,Manager,28750.00
+2025-07-28,101,Sumit Dhayde,Devloper,16050.00
+2025-07-28,102,Pratik Jain,Devloper,21400.00
+2025-07-28,103,Sagar Jain,Manager,28750.00
+2025-07-28,104,Murnal Raut,Manager,14950.00
+2025-07-28,105,Saurabh Darp,Develper,21400.00
+2025-07-28,106,Pranhali,Devloper,14980.00
+2025-07-28,107,Kanchan,Manager,20202.25
+2025-07-28,108,Kumar Thakre ,Manager,28750.00
+2025-07-28,109,Krushna Chavan,Developer,13910.00
+2025-07-28,101,Sumit Dhayde,Devloper,16050.00
+2025-07-28,102,Pratik Jain,Devloper,21400.00
+2025-07-28,103,Sagar Jain,Manager,28750.00
+2025-07-28,104,Murnal Raut,Manager,14950.00
+2025-07-28,105,Saurabh Darp,Develper,21400.00
+2025-07-28,106,Pranhali,Devloper,14980.00
+2025-07-28,107,Kanchan,Manager,23230.00
+2025-07-28,108,Kumar Thakre,Manager,28750.00
+2025-07-28,109,Krushna Chavan,Developer,13910.00
+2025-07-28,110,Sachin Jadhav,Manager,18400.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00
+2025-07-29,101,Sumit Dhayde,Devloper,16050.00
+2025-07-29,102,Pratik Jain,Devloper,21400.00
+2025-07-29,103,Sagar Jain,Manager,28750.00
+2025-07-29,104,Murnal Raut,Manager,14950.00
+2025-07-29,105,Saurabh Darp,Develper,21400.00
+2025-07-29,106,Pranhali,Devloper,14980.00
+2025-07-29,107,Kanchan,Manager,23230.00
+2025-07-29,108,Kumar Thakre,Manager,28750.00
+2025-07-29,109,Krushna Chavan,Developer,13910.00
+2025-07-29,110,Shruti Shikla,Developer,26750.00
+2025-07-29,111,Ankit Yadav,Developer,14980.00
+2025-07-29,112,Kritik Swami,Manager,13800.00

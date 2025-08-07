@@ -1,0 +1,47 @@
+Question
+
+Project Title: Employee Management System 
+Duration: 1 Week
+Level: Mid-Level
+
+Technologies Used:
+Core Java
+File Handling (Read/Write CSV or text files)
+Collections (ArrayList, HashMap)
+Object-Oriented Programming (Inheritance, Polymorphism, Abstraction, Encapsulation)
+Exception Handling
+Multithreading (for background data saving or logging)
+ 
+ Project Requirements:
+
+1. Modules:
+Employee CRUD Operations:
+Add New Employee
+View All Employees
+Search Employee by ID or Department
+Update Employee Details
+Delete Employee
+
+Salary Module:
+Calculate Salary (Basic + Allowance - Deductions)
+Store payroll in a separate file
+
+Multithreading:
+Implement a background thread to auto-save employee data every X seconds to a file (simulate auto backup)
+
+File Handling:
+Load employee data from a file on startup
+Save data to file on exit or periodically (thread)
+
+Admin Menu:
+Login with username and password
+Allow only after successful authentication
+ 
+ Concepts Covered:
+OOP (Define Employee class with inheritance for different roles: Manager, Developer)
+Collection framework (Store employees in ArrayList or HashMap)
+File I/O (Persist employee data to file)
+Exception Handling (Custom and built-in exceptions)
+Multithreading (data auto-backup using Thread or TimerTask)
+
+private static final String PAYROLL_FILE = "C:\\Users\\sumit\\eclipse-workspace2\\EmployeeManagementSystem\\resources\\PayrollHistory.csv";
