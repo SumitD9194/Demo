@@ -1,3 +1,2 @@
 113,Pallavi Kapale,Manager,15000
 101,Sumit Dhayde,Developer,16000
-102,Saoji Adhe,Developer,16000
